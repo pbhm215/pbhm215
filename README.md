@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there
 
 my name is philipp and i'm also a human.
 <!--
